@@ -10,8 +10,8 @@
 
 ## 🛡️ Pipeline da Carreira
 1. **História:** 16 anos como suporte tecnico na equipe de desenvolvimento de softwares
-2. **Objetivos:** Como espera que o curso seja e o que acha que vai aprender.
-3. **Expectativas:** O que te motivou a fazer a trilha DevSecOps.
+2. **Objetivos:** Bastante laboratorios e experiencias praticas
+3. **Expectativas:** Especialização em DevSecOps.
 
 ## 💬 Commit Summary
 `feat(profile): adiciona perfil de <seu-nome>`
