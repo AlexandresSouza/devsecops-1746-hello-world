@@ -1,18 +1,18 @@
-# Profile: <Seu Nome Completo>
+# Profile: Eduardo Vitor Vieira Torres
 
-> **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
-> **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
+> **Role atual:** [Analista júnior de suporte de TI]  
+> **Status:** [Especializando em Segurança de aplicações]
 
 ## 🛠️ Stack Principal
-- [Tecnologia/Ferramenta 1]
-- [Tecnologia/Ferramenta 2]
-- [...]
+- Python
+- Microsoft Excel
+- Power BI
 
 ## 🛡️ Pipeline da Carreira
-1. **História:** Sua carreira a partir dos principais marcos: início, principais mudanças e o que levou à posição atual.
-2. **Objetivos:** Como espera que o curso seja e o que acha que vai aprender.
-3. **Expectativas:** O que te motivou a fazer a trilha DevSecOps.
+1. **História:** Trabalhei com nuvem e análise de dados em um estágio durante a faculdade. Sempre gostei muito de desenvolver projetos pessoais e aprendi Python por conta própria enquanto estava na faculdade de Sistemas de Informaçao. Me desiludi com o mercado privado e fiz o concurso pra TI da Caixa. 
+2. **Objetivos:** Espero aperfeiçoar meus conhecimentos de cibersegurança e devops. Duas áreas que gosto muito.
+3. **Expectativas:** Acredito que é uma área com muito potencial de aprendizado. Como sou fã da área de cyber, já tendo realizado várias capacitações, vi essa como mais uma oportunidade interessante.
 
 ## 💬 Commit Summary
-`feat(profile): adiciona perfil de <seu-nome>`
-`feat(carreira): <cargo atual>; goal: <objetivos>; expect: <expectativas>`
+`feat(profile): adiciona perfil de eduardo-vitor`
+`feat(carreira): suporte; goal: me desenvolver na área de devsecops e migrar pra área; expect: aprender muito e me divertir no processo`
