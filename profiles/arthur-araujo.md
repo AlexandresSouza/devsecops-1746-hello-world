@@ -1,18 +1,20 @@
-# Profile: <Seu Nome Completo>
+# Profile: <Arthur Santos de Araujo>
 
-> **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
-> **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
+> **Role atual:** [Assistente Junior (Operacional de Infraestrutura de Redes)]  
+> **Status:** [Especializando em DevSecOps]
 
 ## 🛠️ Stack Principal
-- [Tecnologia/Ferramenta 1]
-- [Tecnologia/Ferramenta 2]
-- [...]
+- [MySQL]
+- [SQLServer]
+- [PowerBI]
+- [Excel]
+- [C#]
 
 ## 🛡️ Pipeline da Carreira
-1. **História:** Sua carreira a partir dos principais marcos: início, principais mudanças e o que levou à posição atual.
-2. **Objetivos:** Como espera que o curso seja e o que acha que vai aprender.
-3. **Expectativas:** O que te motivou a fazer a trilha DevSecOps.
+1. **História:** Comecei minha carreira como suporte, depois migrei para projetos de TI, atualmente atuo com projetos na area de infraestrutura de redes.
+2. **Objetivos:** Espero aprender muitos conceitos novos e coloca-los em pratica.
+3. **Expectativas:** Especialização em DevSecOps.
 
 ## 💬 Commit Summary
-`feat(profile): adiciona perfil de <seu-nome>`
-`feat(carreira): <cargo atual>; goal: <objetivos>; expect: <expectativas>`
+`feat(profile): adiciona perfil de arthur-araujo`
+`feat(carreira): assitente-jr; goal: especialização; expect: aprender`
